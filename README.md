@@ -15,5 +15,6 @@ We have implemented the following tasks in our dashboard:
 ### Execution commands
 For installing the dependencies, use: \
 `pip install requirements.txt`\
+Please unzip the file `merged.zip` to get `merged.csv` filebefore executing the script\
 For executing the script and hosting the dashboard locally, use: \
 `streamlit run final.py`

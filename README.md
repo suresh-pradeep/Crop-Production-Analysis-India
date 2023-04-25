@@ -16,4 +16,4 @@ We have implemented the following tasks in our dashboard:
 For installing the dependencies, use: \
 `pip install requirements.txt`\
 For executing the script and hosting the dashboard locally, use: \
-`sreamlit run final.py`
+`streamlit run final.py`
